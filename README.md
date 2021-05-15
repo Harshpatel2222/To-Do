@@ -1,2 +1,2 @@
 # To Do
- Django To Do
+To Do app using Django
